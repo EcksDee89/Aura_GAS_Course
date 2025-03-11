@@ -19,24 +19,6 @@
             "compileCommands": [
                 "D:\\Unreal\\Aura\\Aura_GAS_Course\\.vscode\\compileCommands_Default.json"
             ]
-        },
-        {
-            "name": "Win64",
-            "includePath": [
-                "${workspaceFolder}/Source",
-                "C:/Program Files/Epic Games/UE_5.3/Engine/Source/**",
-                "C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/**",
-                //"C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/**"
-            ],
-            "defines": [
-                "_DEBUG",
-                "UNICODE",
-                "_UNICODE"
-            ],
-            "compilerPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/bin/clang++.exe",
-            "cStandard": "c17",
-            "cppStandard": "c++20",
-            "intelliSenseMode": "windows-clang-x64"
         }
     ],
     "version": 4
